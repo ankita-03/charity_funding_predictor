@@ -1,1 +1,0 @@
-# charity_funding_predictor
